@@ -63,13 +63,13 @@
   <ItemGroup>
     <Compile Include="Assets\multiplayer\generated\LobbyState.cs" />
     <Compile Include="Assets\multiplayer\generated\Player.cs" />
+    <Compile Include="Assets\Scripts\PlayerCharacter.cs" />
     <Compile Include="Assets\multiplayer\generated\State.cs" />
+    <Compile Include="Assets\Scripts\EnemyController.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
-    <Compile Include="Assets\Scripte\Controller.cs" />
-    <Compile Include="Assets\Scripte\PlayerCharacter.cs" />
-    <Compile Include="Assets\Scripte\EnemyController.cs" />
+    <Compile Include="Assets\Scripts\EnemyCharacter.cs" />
     <Compile Include="Assets\multiplayer\MultiPlayerManager.cs" />
-    <Compile Include="Assets\Scripte\EnemyCharacter.cs" />
+    <Compile Include="Assets\Scripts\Controller.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
